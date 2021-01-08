@@ -1,5 +1,9 @@
 # exclude everything
-var/*
+var/cache/*
+var/logs/*
+var/sessions/*
 
 # exception to the rule
-!var/.gitkeep 
+!var/cache/.gitkeep 
+!var/logs/.gitkeep 
+!var/sessions/.gitkeep 
