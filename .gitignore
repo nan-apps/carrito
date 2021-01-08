@@ -2,8 +2,10 @@
 var/cache/*
 var/logs/*
 var/sessions/*
+img/*
 
 # exception to the rule
 !var/cache/.gitkeep 
 !var/logs/.gitkeep 
 !var/sessions/.gitkeep 
+!img/.gitkeep 
