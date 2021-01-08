@@ -1,0 +1,5 @@
+# exclude everything
+var/*
+
+# exception to the rule
+!var/.gitkeep 
